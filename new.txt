@@ -1,0 +1,6 @@
+name: Valeria,
+surname: Sharapanovskaya,
+age: 27,
+cat: 
+name: Iriska,
+salary: $5000.
