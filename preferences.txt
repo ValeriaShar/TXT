@@ -1,0 +1,6 @@
+FavoriteFilm: Time,
+FavoriteSeries: TheChestnutMan,
+FavoriteDish: Carpaccio,
+FavoriteSeason: Summer,
+WouldLikeToVisit: Singapor.
+
